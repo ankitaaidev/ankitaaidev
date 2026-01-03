@@ -10,7 +10,7 @@ src="https://i.ibb.co/C54ywypw/Whats-App-Image-2025-12-01-at-3-25-44-PM.jpg">
 
 - 🌱 I’m currently learning **Machine Learning model training, hyperparameter tuning, and validation**
 
-- 💬 Ask me about **Generative AI, Machine Learning workflows, Frontend Development**
+- 💬 Ask me about **Generative AI, Machine Learning workflows, Frontend & Backend Web Development**
 
 - 📫 How to reach me: **contact.ankitaroy@gmail.com**
 
