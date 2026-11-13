@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ankita Roy</h1>
 <h3 align="center">
-A passionate AIML & Web Developer focused on practical innovation
+A passionate ML & Backened Developer focused on practical innovation
 </h3>
 
 <img align="right" alt="Profile Image" width="400" 
